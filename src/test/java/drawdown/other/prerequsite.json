@@ -1,0 +1,15 @@
+{
+    "config": {
+        "mintifiBaseUrl": "https://test-collections-api.mintifi.com/api/v1",
+        "mintifiDdrBaseUrl": "https://test-collections-api.mintifi.com/api/ddr/v1",
+
+        "typeAdminUser": "/admin_users/login",
+        "typeCreateDrawdown": "/drawdown_requests"
+      },
+
+    "actualHeaders": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+        "Content-Type": "application/json"
+    }
+
+}

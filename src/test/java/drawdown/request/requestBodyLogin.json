@@ -1,0 +1,20 @@
+{
+    "validateAdminUser":{
+      "admin_user": {
+          "email":"super_admin@mintifi.com",
+          "password": "Mintifi@123" 
+      }
+  },
+
+   "validateCreateDradown": {
+    "drawdown_request": {
+        "loan_application_id": 66765,
+        "product_type": "scf_flexi_tl",
+        "drawdown_amount": 500,
+        "roi": "21",
+        "tenor": "12",
+        "status": "verified",
+        "source": "ddr_portal"
+    }
+}
+}
