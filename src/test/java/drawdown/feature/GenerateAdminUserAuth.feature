@@ -22,6 +22,6 @@ Scenario:[TC-MB-01] To verify the Admin User Auth API with sending mandatory par
         Then status 200
         And print response
         And assert responseStatus == 200
-        # Storing the token value for futher use
+# Storing the token value for futher use
         * def storedtoken = response.auth.token
         * print 'Store Token: ', storedtoken

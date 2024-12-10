@@ -16,5 +16,15 @@
         "status": "verified",
         "source": "ddr_portal"
     }
-}
+},
+    "ValidateAuthrizedDrawdown":{
+        "data": {
+            "type": "disbursal_request",
+            "attributes": {
+                "status": "authorised",
+                "bank_account_id": "33794",
+                "disbursement_type": "manual"
+            }
+        }
+    }
 }

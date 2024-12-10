@@ -1,6 +1,6 @@
 To run the following project on your local machine please follow below instructions:
 
-1. Git Clone - https://github.com/Sagar-Deshmukh-personal/Sagar-Deshmukh-personal-Risk_Governance_API_Automation.git
+1. Git Clone -https://github.com/Sagar-Deshmukh-personal/Drawdown
    For understanding purpose I have kept target folder consisting of reports but in ideal use case when committing code 'target/' folder is excluded
 
 2. Use following command in terminal:
@@ -17,4 +17,4 @@ If any doubts please contact me on below details:
     - Email: sagar.deshmukh@mintifi.com
 Below is the karate framework and project details:
 
-# Sagar-Deshmukh-personal-Risk_Governance_API_Automation
+# https://github.com/Sagar-Deshmukh-personal/Drawdown
