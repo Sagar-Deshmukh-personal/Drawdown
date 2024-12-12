@@ -1,4 +1,4 @@
-@sanity @adminuserauth
+@adminuserauth
 Feature: To Check the Admin User Auth API
 Background:
     #Declarations and file read of headers/ cookies

@@ -4,7 +4,8 @@
         "mintifiDdrBaseUrl": "https://test-collections-api.mintifi.com/api/ddr/v1",
 
         "typeAdminUser": "/admin_users/login",
-        "typeCreateDrawdown": "/drawdown_requests"
+        "typeCreateDrawdown": "/drawdown_requests",
+        "typeAuthorisedDDR": "/drawdown_requests/56822/authorize_drawdown"
       },
 
     "actualHeaders": {
