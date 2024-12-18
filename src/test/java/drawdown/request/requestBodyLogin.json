@@ -17,16 +17,15 @@
         "source": "ddr_portal"
     }
 },
-    "ValidateAuthrizedDrawdown":{
-        "data": {
-            "type": "disbursal_request",
-            "attributes": {
-                "pin_number": "123456",
-                "status": "authorised",
-                "bank_account_id": "33794",
-                "question1": "POS Direct",
-                "disbursement_type": "manual"
-            }
+    "validateCreateDradownForSCF":{
+        "drawdown_request": {
+            "loan_application_id": 66663,
+            "product_type": "supply_chain",
+            "drawdown_amount": 500,
+            "roi": "12",
+            "tenor": "12",
+            "status": "verified",
+            "source": "ddr_portal"
         }
     }
 }

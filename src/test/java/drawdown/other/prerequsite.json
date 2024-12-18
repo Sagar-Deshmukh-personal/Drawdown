@@ -5,7 +5,7 @@
 
         "typeAdminUser": "/admin_users/login",
         "typeCreateDrawdown": "/drawdown_requests",
-        "typeAuthorisedDDR": "/drawdown_requests/56822/authorize_drawdown"
+        "typeAuthInvoice": "/invoices"
       },
 
     "actualHeaders": {
