@@ -1,4 +1,4 @@
-@ddrSCFAuthPay
+@sanity @ddrSCFAuthPay
 Feature: To Check the Authrization and Update Payment drawdown API
 
 Background:

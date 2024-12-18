@@ -22,10 +22,12 @@
             "loan_application_id": 66663,
             "product_type": "supply_chain",
             "drawdown_amount": 500,
-            "roi": "12",
-            "tenor": "12",
+            "veefin_payment_id": "QA5OD66663",
+            "invoice_id": "12",
+            "amount": 500,
             "status": "verified",
             "source": "ddr_portal"
         }
+
     }
 }
