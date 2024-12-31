@@ -28,5 +28,11 @@
             "status": "verified",
             "source": "ddr_portal"
         } 
+    },
+    "verifyAnchorAuth":{
+        "user": {
+            "email": "dev+62@mintifi.com",
+            "password": "Mintifi@123"
+        }
     }
 }

@@ -2,10 +2,13 @@
     "config": {
         "mintifiBaseUrl": "https://test-collections-api.mintifi.com/api/v1",
         "mintifiDdrBaseUrl": "https://test-collections-api.mintifi.com/api/ddr/v1",
+        "mintifiAnchorBaseUrl": "https://anchors5.test.mintifi.com",
 
         "typeAdminUser": "/admin_users/login",
         "typeCreateDrawdown": "/drawdown_requests",
-        "typeAuthInvoice": "/invoices"
+        "typeAuthInvoice": "/invoices",
+        "typeAuthAnchor": "/sessions",
+        "typeCreateCompany" : "/distributor_companies"
       },
 
     "actualHeaders": {
